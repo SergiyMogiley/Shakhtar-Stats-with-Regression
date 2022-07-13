@@ -1,0 +1,4 @@
+location,possession,passes,shots_on_target,corners,fouls,offsides,won_challenges,win_loss_draw,goals_scored
+1,20,45.04,4,1,20,3,15,3,3
+0,40,65.48,3,9,12,2,19,3,2
+1,32,55.37,4,5,17,5,19,0,2
