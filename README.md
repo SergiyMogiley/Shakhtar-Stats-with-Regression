@@ -31,3 +31,21 @@ Label:
 -	goals_scored – quantity of scored scores.
 
 Part of the training sample data: about 85%.
+
+Results:
+
+Training sample to testing sample: 21:3 (87.5% to 12.5%).
+
+RSquared Score: -3.4; Root Mean Squared Error: 0.99;
+
+Predicted goals scored: 2.9; actual goals scored: 3.
+
+Conclusions:
+
+The prediction is quite accurate.
+
+Links:
+
+-	Github-repository: https://github.com/SergiyMogiley/Shakhtar-Stats-with-Regression
+
+-	LinkedIn: https://www.linkedin.com/in/sergiy-mogiley-5348a615b/
